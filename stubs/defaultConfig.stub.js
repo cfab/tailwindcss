@@ -1,4 +1,5 @@
 module.exports = {
+  target: 'relaxed',
   prefix: '',
   important: false,
   separator: ':',
